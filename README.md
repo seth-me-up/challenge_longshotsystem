@@ -35,4 +35,4 @@ To run this script, you'll need Node.js and npm installed on your machine. Follo
 5. Final passcode will be outputted in the console as stringified JSON:
 
     ```bash
-   node index.js
+   console.log(JSON.stringify(finalPassCode));
